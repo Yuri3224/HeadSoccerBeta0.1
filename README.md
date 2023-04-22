@@ -32,7 +32,7 @@ O programa não tem fins lucrativos, apenas por pura diversão.
 
 * Ao baixar basta extrair com o próprio Windows ou o Winrar, você vai se deparar com alguns arquivos, mas para abrir o joo basta escolher um desses dois arquivos:
 
-![ícones](https://cdn.discordapp.com/attachments/537311530346217484/1099314042004312074/Screenshot_2.png)
+![ícones](https://cdn.discordapp.com/attachments/537311530346217484/1099314042004312074/Screenshot_2.png "ícones")
 
 Os dois abrem o jog *(mas o atalho tem esse ícone muito insano haha)*
 
