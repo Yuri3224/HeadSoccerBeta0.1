@@ -1,4 +1,4 @@
-<h1 align = "center"> Head Soccer </h1>
+<h1 align = "center"> Bald Soccer </h1>
 
 
 ## Lore do Game
